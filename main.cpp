@@ -67,11 +67,21 @@ void telas(){
     cout<<"-----------------------------"<<endl;
     cout<<"El total de yardas es: "<<total<<endl;
 }
-    
+void facotrial(){
+   int n,i;
+   long double factorial; // se declara long double para poder representar números grandes
+   cout << "Introduce un numero: ";
+   cin >> n;
+   factorial=1;
+   for(i=1;i<=n;i++)
+   factorial = factorial * i;
+   cout << endl << "Factorial de " << n << " -> " << factorial << endl;
+}   
 int main(int argc, char** argv) {
     //corredores();
     //materias();
-    telas();
+    //telas();
+    facotrial();
     
     return 0;
 }
