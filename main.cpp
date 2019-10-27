@@ -84,10 +84,6 @@ void facotrial() {
 }
 
 int main(int argc, char** argv) {
-    //corredores();
-    //materias();
-    //telas();
-    //facotrial();
     int choice;
 
     do {
