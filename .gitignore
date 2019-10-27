@@ -1,0 +1,4 @@
+.dep.inc
+build/Debug/Cygwin-Windows/main.o
+build/Debug/Cygwin-Windows/main.o.d
+dist/Debug/Cygwin-Windows/ejerciciospreprivado.exe
