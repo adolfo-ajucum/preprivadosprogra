@@ -1,7 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* INTEGRANTES
+ * Jennifer Aimee Gean        2590-1314377 
+ * Carlos Josué Tirado Garcia 1490-14-4929
+ * Erick Roberto Garcia Tovar 1490-14-1612 
+ * Adolfo Martin Ajucum Cuá   1490-14-8757
  */
 
 /* 
